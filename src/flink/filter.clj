@@ -11,6 +11,3 @@
 
 (defn http-filter [this v]
   (.startsWith v "http://"))
-
-
-(compile 'flink.filter)

@@ -1,3 +1,4 @@
 {:paths ["src" "classes"]
  :deps {org.apache.flink/flink-clients_2.11 {:mvn/version "1.13.6"}
-        io.kosong.flink/flink-clojure {:mvn/version "0.1.0"}}}
+        io.kosong.flink/flink-clojure {:mvn/version "0.1.0"}}
+ :aliases {:aot {:main-opts ["-e" "(compile,(symbol,:flink.filter))"]}}}
