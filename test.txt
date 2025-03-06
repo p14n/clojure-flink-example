@@ -1,0 +1,9 @@
+http://www.google.com
+http://www.yahoo.com
+http://www.bing.com
+http://www.amazon.com
+http://www.facebook.com
+https://www.twitter.com
+https://www.instagram.com
+https://www.linkedin.com
+https://www.youtube.com
